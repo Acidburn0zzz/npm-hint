@@ -18,7 +18,7 @@
     "eventemitter2": "^6.0.0",
     "file-type": "^14.6.2",
     "globby": "^11.0.0",
-    "is-svg": "^4.2.1",
+    "is-svg": "^4.2.2",
     "is-wsl": "^2.2.0",
     "lodash": "^4.17.15",
     "npm-registry-fetch": "^8.0.2",
